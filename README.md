@@ -1,3 +1,5 @@
+A collection of Verilog codes and testbenches organized chapter-wise, covering number systems, Boolean algebra, logic gates, combinational circuits, and sequential circuits (latches, flip-flops, counters, registers, and FSMs). Designed as a structured reference for learning and practicing digital design concepts using Verilog HDL.
+
 # Digital-Design-through-Verilog-HDL
 # Digital Design through Verilog HDL
 
